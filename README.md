@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Posteo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://posteo.de/
+Posteo is a German email service provider focused on privacy, security, and sustainability. It offers ad‑free, encrypted email with strong data protection, green hosting powered by renewable energy, and features such as DANE, OpenPGP, and two‑factor authentication. The service emphasizes user anonymity, no tracking, and transparent policies, positioning itself as a secure alternative to mainstream email providers.
+
+**Areas:** Email · Privacy · Security · Sustainability · German
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://posteo.de/)
+- [Documentation](https://posteo.de/en/site/about_posteo)
+- [Getting started](https://posteo.de/en/signup)
+- [Support](https://posteo.de/en/help)
+- [Blog](https://posteo.de/en/blog)
+- [Terms of service](https://posteo.de/en/site/terms)
+- [Privacy policy](https://posteo.de/en/site/privacy_policy)
+- [GitHub](https://github.com/posteo)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/posteo/](https://apis.io/providers/posteo/).
